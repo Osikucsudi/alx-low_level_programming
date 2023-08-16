@@ -2,9 +2,9 @@
 
 /**
  * main - alphabet a-z
- *
- * Return: 0 r
+ * Return: 0 always
  */
+
 void print_alphabet(void)
 {
 	char k;
