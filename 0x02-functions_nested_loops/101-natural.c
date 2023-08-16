@@ -16,4 +16,5 @@ int main(void)
 			sum = sum + h;
 	}
 	printf("%d\n", sum);
+	return (0);
 }
