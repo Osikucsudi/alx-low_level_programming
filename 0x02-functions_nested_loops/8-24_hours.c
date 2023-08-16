@@ -9,7 +9,7 @@ void jack_bauer(void)
 {
 	int m, n;
 
-	for (m = 0 ; m < 23 ; m++)
+	for (m = 0 ; m < 24 ; m++)
 	{
 		for (n = 0 ; n < 60 ; n++)
 		{
