@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - 98 fibonacci numbers
- * 1 and 2, put coma
+ * main - set 98 fibonacci numbers
+ * 1 and 2, put comma
  * Return: should be 0
  */
-
 int main(void)
+
 {
 	int count;
 	unsigned long numb1 = 0, numb2 = 1, sum;
@@ -32,7 +32,7 @@ int main(void)
 	{
 	half1 += 1;
 	half2 %= 10000000000;
-	{
+	}
 	printf("%lu%lu", half1, half2);
 	if (count != 98)
 	printf(", ");
