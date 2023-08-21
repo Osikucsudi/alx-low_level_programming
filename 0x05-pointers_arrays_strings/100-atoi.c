@@ -3,7 +3,6 @@
 /**
  * _atoi - function
  * @s: parameter
- * @min: parameter
  * Return: ni
  */
 
