@@ -5,6 +5,7 @@
 /**
  * main - function for passwords
  * program 101-crackme
+ * @password: parameter
  * Return: 0
  */
 
