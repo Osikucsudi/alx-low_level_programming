@@ -2,6 +2,13 @@
 #include "main.h"
 #include <stdlib.h>
 
+/**
+ * main - function for the cents
+ * @argc: count
+ * @argv: vector
+ * Return: 0
+ */
+
 int main(int argc, char *argv[])
 {
 	int cents, coins = 0;
